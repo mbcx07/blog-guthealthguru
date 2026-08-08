@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guthealthguru.com/blog-guthealthguru/sitemap.xml
